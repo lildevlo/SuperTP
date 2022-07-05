@@ -1,0 +1,8 @@
+name: SuperTP
+version: 1.0
+author: liltray
+main: fr.liltray.stp.Main
+commands:
+  tp:
+    descriptiton: like the base tp cmd
+    permission: stp.basetp
